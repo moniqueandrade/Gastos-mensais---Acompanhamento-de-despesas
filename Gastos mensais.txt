@@ -1,0 +1,37 @@
+Gastos mensais 
+
+--> Despesas fixas
+
+    - Aluguel
+    - Internet
+    - Condomínio 
+    - Dentista
+    - Parcelamento de compras
+    
+--> Despesas variáveis
+    
+    - Feira 
+    - Energia
+    - Transporte
+    - Extras
+
+--- Relação referente ao mês de fevereiro ---
+
+--> Despesas fixas
+
+    - Aluguel: 650,00
+    - Internet: 100,00
+    - Condomínio: 100,00
+    - Dentista: 160,00
+    - Parcelamento de compras: 550,00
+
+--> Despesas variáveis
+
+    - Feira: 700,00
+    - Energia: 95,32
+    - Transporte: 168,00
+    - Extras: 220,00 
+
+    --------------------------- Total: 2.743,32
+    
+   
